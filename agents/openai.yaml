@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Design System Extractor"
+  short_description: "Infer design systems from reference imagery"
+  default_prompt: "Use $visual-design-system-extractor to extract a production-grade YAML design system from these reference images."
