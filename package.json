@@ -1,0 +1,27 @@
+{
+  "name": "@srinitude/visual-design-system-extractor",
+  "version": "0.1.0",
+  "description": "Use when the user asks to analyze reference images, screenshots, moodboards, style frames, brand boards, cinematic stills, or product UI shots to infer a production-grade design sy",
+  "license": "Apache-2.0",
+  "author": "Kiren Srinivasan <kiren@fantasymetals.com>",
+  "homepage": "https://github.com/srinitude/visual-design-system-extractor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinitude/visual-design-system-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srinitude/visual-design-system-extractor/issues"
+  },
+  "keywords": [
+    "agent-skill",
+    "skills.sh",
+    "visual-design-system-extractor"
+  ],
+  "files": [
+    "skills/",
+    "skills-lock.json",
+    "LICENSE",
+    "NOTICE",
+    "README.md"
+  ]
+}

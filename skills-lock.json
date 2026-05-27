@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "visual-design-system-extractor",
+      "version": "0.1.0",
+      "path": "skills/visual-design-system-extractor",
+      "description": "Use when the user asks to analyze reference images, screenshots, moodboards, style frames, brand boards, cinematic stills, or product UI shots to infer a production-grade design system, design tokens, brand/art direction, cinematic language, worldbuilding, motion rules, or YAML style specification. Handles multimodal visual extraction into valid YAML for UI/UX, brand, motion, creative direction, AI generation, and design-engineering workflows. Not for generating images or ordinary frontend implementation unless visual references must be reverse-engineered first.",
+      "tags": [
+        "agent-skill",
+        "skills.sh"
+      ]
+    }
+  ]
+}
